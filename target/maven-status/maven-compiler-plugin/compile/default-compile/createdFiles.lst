@@ -1,0 +1,6 @@
+co\com\soulrebel\data\PersonaDaoImpl.class
+co\com\soulrebel\web\JAXRSActivator.class
+co\com\soulrebel\servicio\PersonaServiceRS.class
+co\com\soulrebel\web\CorsFilter.class
+co\com\soulrebel\data\PersonaDao.class
+co\com\soulrebel\domain\Persona.class
